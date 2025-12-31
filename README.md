@@ -1,94 +1,93 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3a8a,100:2563eb&height=220&section=header&text=Mehedi%20Hasan%20Shuvo&fontSize=38&fontColor=ffffff&desc=Frontend%20Web%20Developer%20|%20React%20|%20JavaScript&descAlignY=65" />
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3a8a,100:2563eb&height=220&section=header&text=Mehedi%20Hasan%20Shuvo&fontSize=38&fontColor=ffffff&desc=Frontend%20Web%20Developer%20|%20React%20|%20JavaScript&descAlignY=65" width="100%" />
 
+  <br/>
 
-<!-- <h1 align="center">Hi 👋, I'm Mehedi Hasan Shuvo</h1> -->
-<h3 align="center">Frontend Web Developer | React | Next js | JavaScript</h3>
-
-<p align="center">
-  Passionate about building clean, responsive, and user-friendly web experiences.
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?lines=Frontend+Web+Developer;UI+Focused+Problem+Solver;Always+Learning+New+Things&center=true&width=500&height=50">
-</p>
+  <p align="center">
+    <img src="https://readme-typing-svg.herokuapp.com?lines=Frontend+Web+Developer;UI+Focused+Problem+Solver;Always+Learning+New+Things&center=true&width=500&height=50&color=2563eb">
+  </p>
+  
+  <p align="center">
+    <i>Passionate about building clean, responsive, and user-friendly web experiences.</i>
+  </p>
+</div>
 
 ---
 
 ## 🚀 About Me
 
-I am a frontend web developer who enjoys turning ideas into interactive and visually appealing web interfaces.  
-I started learning web development out of curiosity and gradually built a strong interest in frontend technologies.  
-I regularly practice, build real projects, and focus on writing clean and maintainable code.
+I am a **Frontend Web Developer** who enjoys turning ideas into interactive and visually appealing web interfaces. I started learning web development out of curiosity and gradually built a strong interest in frontend technologies. I regularly practice, build real projects, and focus on writing clean and maintainable code.
 
-- 🌱 Currently improving my frontend and Next.js skills  
-- 💻 Comfortable with Tailwind CSS, JavaScript, React, Next js, Express, MongoDB
-- 🎯 Focused on responsive design & user experience  
-- 🧠 Strong problem-solving mindset  
-- 🔥 Motivated, responsible, and eager to grow as a developer  
+- 🌱 Currently improving my frontend and **Next.js** skills.
+- 💻 Comfortable with **React, Next.js, Tailwind CSS, JavaScript, Express, & MongoDB**.
+- 🎯 Focused on **Responsive Design** & **User Experience (UX)**.
+- 🧠 Strong **problem-solving** mindset.
+- 🔥 Motivated, responsible, and eager to grow as a developer.
 
 ---
 
 ## 🛠️ Tech Stack
 
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,next,git,github" />
-</p>
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,next,express,mongodb,git,github" />
+</div>
 
 ---
 
 ## 📌 Featured Projects
 
-### 🏙️ City Fix
-A web platform to report and manage city-related issues.
+### 🏙️ [City Fix](https://github.com/shuvostack/city-fix-client)
+A web platform to report and manage city-related issues efficiently.
+- 🔹 **Client & Server-based** architecture.
+- 🔹 Focused on usability and clean UI.
+- 🔹 Built with JavaScript and modern web tools.
 
-- 🔹 Client & server-based architecture  
-- 🔹 Focused on usability and clean UI  
-- 🔹 Built with JavaScript and modern web tools  
-
-👉 [Client Repo](https://github.com/shuvostack/city-fix-client)  
-👉 [Server Repo](https://github.com/shuvostack/city-fix-server)
+👉 **[Client Repo](https://github.com/shuvostack/city-fix-client)** | **[Server Repo](https://github.com/shuvostack/city-fix-server)**
 
 ---
 
-### 🚨 Emergency Hotline
+### 🚨 [Emergency Hotline](https://github.com/shuvostack/emergency-hotline)
 A simple and useful project designed to access emergency contact information quickly.
 
-👉 [Source Code](https://github.com/shuvostack/emergency-hotline)
+👉 **[View Source Code](https://github.com/shuvostack/emergency-hotline)**
 
 ---
 
-### 📚 English Janala
+### 📚 [English Janala](https://github.com/shuvostack/english-janala)
 An educational website focused on learning English in a simple and structured way.
 
-👉 [Source Code](https://github.com/shuvostack/english-janala)
+👉 **[View Source Code](https://github.com/shuvostack/english-janala)**
 
 ---
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shuvostack&show_icons=true&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shuvostack&theme=tokyonight" />
-</p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=shuvostack&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shuvostack&theme=tokyonight&hide_border=true&background=0D1117" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shuvostack&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" />
+</div>
 
 ---
 
 ## 🌱 Currently Learning
 
-- Next.js (App Router, Routing & Data Fetching)
-- Advanced React patterns and hooks
-- Performance optimization and clean code practices
+- **Next.js** (App Router, Server Actions)
+- Advanced **React Hooks** & Patterns
+- Performance Optimization & SEO Best Practices
 
 ---
 
 ## 📫 Connect With Me
 
-- 📧 Email: **shuvostack@gmail.com**
-- 💼 LinkedIn: https://www.linkedin.com/in/mehedi-hasan-shuvo-b33836390/
-- 🌐 GitHub: https://github.com/shuvostack
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mehedi-hasan-shuvo-b33836390/) 
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shuvostack@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/shuvostack)
+
+</div>
 
 ---
 
