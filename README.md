@@ -1,3 +1,5 @@
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3a8a,100:2563eb&height=220&section=header&text=Mehedi%20Hasan%20Shuvo&fontSize=38&fontColor=ffffff&desc=Frontend%20Web%20Developer%20|%20React%20|%20JavaScript&descAlignY=65" />
+
 <h1 align="center">Hi 👋, I'm Mehedi Hasan Shuvo</h1>
 <h3 align="center">Frontend Web Developer | React | JavaScript</h3>
 
