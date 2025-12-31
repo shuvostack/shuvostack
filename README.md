@@ -20,8 +20,8 @@ I am a frontend web developer who enjoys turning ideas into interactive and visu
 I started learning web development out of curiosity and gradually built a strong interest in frontend technologies.  
 I regularly practice, build real projects, and focus on writing clean and maintainable code.
 
-- 🌱 Currently improving my frontend and React skills  
-- 💻 Comfortable with HTML, CSS, JavaScript  
+- 🌱 Currently improving my frontend and Next.js skills  
+- 💻 Comfortable with Tailwind CSS, JavaScript, React, Next js, Express, MongoDB
 - 🎯 Focused on responsive design & user experience  
 - 🧠 Strong problem-solving mindset  
 - 🔥 Motivated, responsible, and eager to grow as a developer  
@@ -31,7 +31,7 @@ I regularly practice, build real projects, and focus on writing clean and mainta
 ## 🛠️ Tech Stack
 
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,git,github" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,next,git,github" />
 </p>
 
 ---
@@ -78,9 +78,9 @@ An educational website focused on learning English in a simple and structured wa
 
 ## 🌱 Currently Learning
 
-- React (Hooks, Component Patterns)
-- Clean UI Design Principles
-- Better code structure & best practices
+- Next.js (App Router, Routing & Data Fetching)
+- Advanced React patterns and hooks
+- Performance optimization and clean code practices
 
 ---
 
