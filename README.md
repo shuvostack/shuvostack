@@ -1,5 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=220&section=header&text=Mehedi%20Hasan%20Shuvo&desc=Frontend%20Web%20Developer%20•%20React%20•%20JavaScript&fontSize=38&fontColor=ffffff&descFontSize=18&animation=fadeIn&stroke=ffffff&strokeWidth=3" width="100%" alt="Mehedi's GitHub Banner" />
-
+<img src="https://capsule-render.vercel.app/api?type=slice&color=gradient&customColorList=1c1c1c,3d3d3d&height=250&section=header&text=Mehedi%20Hasan%20Shuvo&desc=Frontend%20Web%20Developer%20•%20React%20•%20JavaScript&fontSize=38&fontColor=ffffff&descFontSize=18&animation=fadeIn&fontAlignY=45&descAlignY=65&stroke=ffffff&strokeWidth=1" width="100%" alt="Banner 3" />
 
 <h1 align="center">Hi 👋, I'm Mehedi Hasan Shuvo</h1>
 <h3 align="center">Frontend Web Developer | React | JavaScript</h3>
