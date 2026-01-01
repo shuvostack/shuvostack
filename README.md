@@ -64,10 +64,19 @@ An educational website focused on learning English in a simple and structured wa
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shuvostack&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shuvostack&theme=tokyonight&hide_border=true&background=0D1117" />
+  <a href="https://github.com/shuvostack">
+    <img src="https://github-readme-stats.vercel.app/api?username=shuvostack&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Shuvo's GitHub Stats" />
+  </a>
+  
+  <a href="https://github.com/shuvostack">
+    <img src="https://streak-stats.demolab.com?user=shuvostack&theme=tokyonight&hide_border=true&background=0D1117" alt="Shuvo's Streak" />
+  </a>
+  
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shuvostack&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" />
+  
+  <a href="https://github.com/shuvostack">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shuvostack&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" />
+  </a>
 </div>
 
 ---
