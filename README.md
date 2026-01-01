@@ -18,6 +18,7 @@
 
 I am a **Frontend Web Developer** who enjoys turning ideas into interactive and visually appealing web interfaces. I started learning web development out of curiosity and gradually built a strong interest in frontend technologies. I regularly practice, build real projects, and focus on writing clean and maintainable code.
 
+**🔭 Current Activities & Focus:**
 - 🌱 Currently improving my frontend and **Next.js** skills.
 - 💻 Comfortable with **React, Next.js, Tailwind CSS, JavaScript, Express, & MongoDB**.
 - 🎯 Focused on **Responsive Design** & **User Experience (UX)**.
@@ -83,7 +84,7 @@ An educational website focused on learning English in a simple and structured wa
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mehedi-hasan-shuvo-b33836390/) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shuvostack/) 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shuvostack@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/shuvostack)
 
