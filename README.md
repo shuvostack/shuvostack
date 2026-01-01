@@ -65,11 +65,15 @@ An educational website focused on learning English in a simple and structured wa
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=shuvostack&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117)
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shuvostack&theme=tokyonight" alt="Shuvo's GitHub Stats" />
 
-![GitHub Streak](https://streak-stats.demolab.com?user=shuvostack&theme=tokyonight&hide_border=true&background=0D1117)
+  <br/>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shuvostack&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117)
+  <img src="https://streak-stats.demolab.com?user=shuvostack&theme=tokyonight&hide_border=true&background=0D1117" alt="Shuvo's Streak" />
+
+  <br/>
+
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=shuvostack&theme=tokyonight" alt="Top Languages" />
 
 </div>
 
