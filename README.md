@@ -61,33 +61,32 @@
 ## 📌 Featured Projects
 
 <table width="100%">
-  <tr>
-    <td width="50%" valign="top">
-      <h3 align="center">🍽️ Plate Share</h3>
-      <p align="center"><i>A scalable food donation platform.</i></p>
-      <ul>
-        <li><b>Tech:</b> React.js, Node.js, Express, MongoDB</li>
-        <li><b>Features:</b> JWT Auth, Complex State Management, REST API integration, Responsive UI.</li>
-      </ul>
-      <p align="center">
-        <a href="https://github.com/shuvostack"><img src="https://img.shields.io/badge/Client_Code-1E293B?style=for-the-badge&logo=github&logoColor=white" /></a>
-        <a href="https://github.com/shuvostack"><img src="https://img.shields.io/badge/Server_Code-1E293B?style=for-the-badge&logo=nodedotjs&logoColor=white" /></a>
-      </p>
-    </td>
-    
-    <td width="50%" valign="top">
-      <h3 align="center">🏙️ City Fix</h3>
-      <p align="center"><i>City issue reporting & management system.</i></p>
-      <ul>
-        <li><b>Tech:</b> React, Tailwind CSS, MERN Architecture</li>
-        <li><b>Features:</b> Client & Server architecture, clean dashboard, database management, high usability.</li>
-      </ul>
-      <p align="center">
-        <a href="https://github.com/shuvostack/city-fix-client"><img src="https://img.shields.io/badge/Client_Code-1E293B?style=for-the-badge&logo=github&logoColor=white" /></a>
-        <a href="https://github.com/shuvostack/city-fix-server"><img src="https://img.shields.io/badge/Server_Code-1E293B?style=for-the-badge&logo=nodedotjs&logoColor=white" /></a>
-      </p>
-    </td>
-  </tr>
+<tr>
+<td width="50%" valign="top">
+<h3 align="center">🍽️ Plate Share</h3>
+<p align="center"><i>A scalable food donation platform.</i></p>
+<ul>
+<li><b>Tech:</b> React.js, Node.js, Express, MongoDB</li>
+<li><b>Features:</b> JWT Auth, Complex State Management, REST API integration, Responsive UI.</li>
+</ul>
+<p align="center">
+<a href="https://github.com/shuvostack"><img src="https://img.shields.io/badge/Client_Code-1E293B?style=for-the-badge&logo=github&logoColor=white" /></a>
+<a href="https://github.com/shuvostack"><img src="https://img.shields.io/badge/Server_Code-1E293B?style=for-the-badge&logo=nodedotjs&logoColor=white" /></a>
+</p>
+</td>
+<td width="50%" valign="top">
+<h3 align="center">🏙️ City Fix</h3>
+<p align="center"><i>City issue reporting & management system.</i></p>
+<ul>
+<li><b>Tech:</b> React, Tailwind CSS, MERN Architecture</li>
+<li><b>Features:</b> Client & Server architecture, clean dashboard, database management, high usability.</li>
+</ul>
+<p align="center">
+<a href="https://github.com/shuvostack/city-fix-client"><img src="https://img.shields.io/badge/Client_Code-1E293B?style=for-the-badge&logo=github&logoColor=white" /></a>
+<a href="https://github.com/shuvostack/city-fix-server"><img src="https://img.shields.io/badge/Server_Code-1E293B?style=for-the-badge&logo=nodedotjs&logoColor=white" /></a>
+</p>
+</td>
+</tr>
 </table>
 
 <br/>
