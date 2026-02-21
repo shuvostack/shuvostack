@@ -48,7 +48,8 @@
 
 ## 🛠️ Tech Arsenal
 
-<table width="100%">
+<div align="center">
+  <table width="100%">
 <tr>
 <td width="33%" align="center">
 <h3>🎨 Frontend</h3>
@@ -64,6 +65,8 @@
 </td>
 </tr>
 </table>
+
+</div>
 
 <br/>
 
