@@ -16,7 +16,7 @@
 
 ## 🚀 About Me
 
-I am a **Frontend Web Developer** who enjoys turning ideas into interactive and visually appealing web interfaces. I started learning web development out of curiosity and gradually built a strong interest in frontend technologies. I regularly practice, build real projects, and focus on writing clean and maintainable code.
+I am a **MERN Stack Web Developer** who enjoys turning ideas into interactive and visually appealing web interfaces. I started learning web development out of curiosity and gradually built a strong interest in frontend technologies. I regularly practice, build real projects, and focus on writing clean and maintainable code.
 
 **🔭 Current Activities & Focus:**
 - 🌱 Currently improving my frontend and **Next.js** skills.
