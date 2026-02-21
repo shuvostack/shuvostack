@@ -1,14 +1,14 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3a8a,100:2563eb&height=220&section=header&text=Mehedi%20Hasan%20Shuvo&fontSize=38&fontColor=ffffff&desc=Frontend%20Web%20Developer%20|%20React%20|%20JavaScript&descAlignY=65" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3a8a,100:2563eb&height=220&section=header&text=Mehedi%20Hasan%20Shuvo&fontSize=38&fontColor=ffffff&desc=MERN%20Stack%20Developer%20|%20React%20|%20Node.js&descAlignY=65" width="100%" />
 
   <br/>
 
   <p align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?lines=Frontend+Web+Developer;UI+Focused+Problem+Solver;Always+Learning+New+Things&center=true&width=500&height=50&color=2563eb">
+    <img src="https://readme-typing-svg.herokuapp.com?lines=MERN+Stack+Developer;Full+Stack+Problem+Solver;Always+Learning+New+Things&center=true&width=500&height=50&color=2563eb">
   </p>
   
   <p align="center">
-    <i>Passionate about building clean, responsive, and user-friendly web experiences.</i>
+    <i>Passionate about building scalable, responsive, and user-friendly full-stack web applications.</i>
   </p>
 </div>
 
@@ -16,12 +16,12 @@
 
 ## 🚀 About Me
 
-I am a **MERN Stack Web Developer** who enjoys turning ideas into interactive and visually appealing web interfaces. I started learning web development out of curiosity and gradually built a strong interest in frontend technologies. I regularly practice, build real projects, and focus on writing clean and maintainable code.
+I am a **MERN Stack Developer** who enjoys turning ideas into robust, interactive, and visually appealing web applications. I started learning web development out of curiosity and gradually built a strong expertise in full-stack technologies. I regularly practice, build real-world projects, and focus on writing clean, scalable, and maintainable code across both frontend and backend architectures.
 
 **🔭 Current Activities & Focus:**
-- 🌱 Currently improving my frontend and **Next.js** skills.
-- 💻 Comfortable with **React, Next.js, Tailwind CSS, JavaScript, Express, & MongoDB**.
-- 🎯 Focused on **Responsive Design** & **User Experience (UX)**.
+- 🌱 Currently improving my full-stack and **Next.js** skills.
+- 💻 Comfortable with **React, Next.js, Tailwind CSS, Node.js, Express, & MongoDB**.
+- 🎯 Focused on **Responsive Design**, **REST APIs**, & **User Experience (UX)**.
 - 🧠 Strong **problem-solving** mindset.
 - 🔥 Motivated, responsible, and eager to grow as a developer.
 
@@ -30,7 +30,7 @@ I am a **MERN Stack Web Developer** who enjoys turning ideas into interactive an
 ## 🛠️ Tech Stack
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,next,express,mongodb,git,github" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,next,express,mongodb,nodejs,git,github" />
 </div>
 
 ---
@@ -39,9 +39,9 @@ I am a **MERN Stack Web Developer** who enjoys turning ideas into interactive an
 
 ### 🏙️ [City Fix](https://github.com/shuvostack/city-fix-client)
 A web platform to report and manage city-related issues efficiently.
-- 🔹 **Client & Server-based** architecture.
-- 🔹 Focused on usability and clean UI.
-- 🔹 Built with JavaScript and modern web tools.
+- 🔹 **Client & Server-based** MERN architecture.
+- 🔹 Focused on usability, database integration, and clean UI.
+- 🔹 Built with React, Tailwind, Express, and MongoDB.
 
 👉 **[Client Repo](https://github.com/shuvostack/city-fix-client)** | **[Server Repo](https://github.com/shuvostack/city-fix-server)**
 
@@ -81,9 +81,9 @@ An educational website focused on learning English in a simple and structured wa
 
 ## 🌱 Currently Learning
 
-- **Next.js** (App Router, Server Actions)
-- Advanced **React Hooks** & Patterns
-- Performance Optimization & SEO Best Practices
+- **Next.js** (App Router, Server Actions, SSR)
+- Advanced **React Hooks** & State Management
+- Full-Stack Performance Optimization & Security Best Practices
 
 ---
 
