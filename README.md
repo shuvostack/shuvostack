@@ -1,72 +1,125 @@
 <div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:3b82f6&height=220&section=header&text=Mehedi%20Hasan%20Shuvo&fontSize=42&fontColor=ffffff&desc=MERN%20Stack%20Developer%20|%20React.js%20|%20Next.js%20|%20Node.js&descAlignY=65" width="100%" alt="Header Banner" />
 
-<img src="https://capsule-render.vercel.app/api?type=venom&height=280&text=Mehedi%20Hasan%20Shuvo&fontSize=45&color=0:0f172a,100:2563eb&stroke=2563eb&fontColor=ffffff" width="100%" />
+  <br/>
+  <a href="https://github.com/shuvostack">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&height=50&lines=Building+Scalable+MERN+Stack+Apps...;Transforming+Ideas+into+Web+Solutions...;Exploring+Next.js+%26+Server-Side+Rendering...;Always+Learning+%26+Coding...!" alt="Typing SVG" />
+  </a>
 
-<h2>🚀 Full Stack MERN Developer | Building Scalable Web Experiences</h2>
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=800&color=2563EB&center=true&vCenter=true&width=600&lines=Crafting+Modern+Web+Applications;Turning+Ideas+Into+Reality;Obsessed+With+Clean+Code;Next.js+%7C+React+%7C+Node.js" />
+  <p align="center">
+    <i>Passionate about building scalable, responsive, and user-friendly full-stack web applications.</i>
+  </p>
+  
+  <img src="https://komarev.com/ghpvc/?username=shuvostack&label=Profile%20Views&color=blue&style=flat-square" alt="Profile Views" />
+</div>
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=shuvostack&label=Profile+Views&color=2563eb&style=for-the-badge" />
+<table width="100%">
+  <tr>
+    <td width="55%" valign="top">
+      <h2>🚀 About Me</h2>
+      <p>I am a <strong>MERN Stack Developer</strong> based in Tangail, Bangladesh. I enjoy turning complex problems into robust, interactive, and visually appealing web applications.</p>
+      <p>My journey in web development started out of curiosity, and today I focus on writing clean, scalable, and maintainable code across both frontend and backend architectures.</p>
+    </td>
+    <td width="45%" valign="top">
+      <h2>⚡ Quick Facts</h2>
+      <ul>
+        <li>🌱 Currently exploring: <b>Next.js (SSR, App Router)</b></li>
+        <li>💻 Working on: <b>Talkify (Real-time Chat App)</b></li>
+        <li>🎯 Focus: <b>Full-Stack Performance & UX</b></li>
+        <li>💬 Ask me about: <b>React, Express, Tailwind CSS</b></li>
+        <li>📫 Reach out: <a href="mailto:shuvostack@gmail.com"><b>shuvostack@gmail.com</b></a></li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
+<br/>
+
+## 🛠️ Tech Arsenal
+
+<table width="100%">
+  <tr>
+    <td width="33%" align="center">
+      <h3>🎨 Frontend</h3>
+      <img src="https://skillicons.dev/icons?i=html,css,js,react,next,tailwind&perline=3" />
+    </td>
+    <td width="33%" align="center">
+      <h3>⚙️ Backend & DB</h3>
+      <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,firebase&perline=2" />
+    </td>
+    <td width="33%" align="center">
+      <h3>🔧 Tools</h3>
+      <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,vercel&perline=3" />
+    </td>
+  </tr>
+</table>
+
+<br/>
+
+## 📌 Featured Projects
+
+<table width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">🍽️ Plate Share</h3>
+      <p align="center"><i>A scalable food donation platform.</i></p>
+      <ul>
+        <li><b>Tech:</b> React.js, Node.js, Express, MongoDB</li>
+        <li><b>Features:</b> JWT Auth, Complex State Management, REST API integration, Responsive UI.</li>
+      </ul>
+      <p align="center">
+        <a href="https://github.com/shuvostack"><img src="https://img.shields.io/badge/Client_Code-1E293B?style=for-the-badge&logo=github&logoColor=white" /></a>
+        <a href="https://github.com/shuvostack"><img src="https://img.shields.io/badge/Server_Code-1E293B?style=for-the-badge&logo=nodedotjs&logoColor=white" /></a>
+      </p>
+    </td>
+    
+    <td width="50%" valign="top">
+      <h3 align="center">🏙️ City Fix</h3>
+      <p align="center"><i>City issue reporting & management system.</i></p>
+      <ul>
+        <li><b>Tech:</b> React, Tailwind CSS, MERN Architecture</li>
+        <li><b>Features:</b> Client & Server architecture, clean dashboard, database management, high usability.</li>
+      </ul>
+      <p align="center">
+        <a href="https://github.com/shuvostack/city-fix-client"><img src="https://img.shields.io/badge/Client_Code-1E293B?style=for-the-badge&logo=github&logoColor=white" /></a>
+        <a href="https://github.com/shuvostack/city-fix-server"><img src="https://img.shields.io/badge/Server_Code-1E293B?style=for-the-badge&logo=nodedotjs&logoColor=white" /></a>
+      </p>
+    </td>
+  </tr>
+</table>
+
+<br/>
+
+## 📊 GitHub Analytics
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=shuvostack&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" width="48%" />
+  <img src="https://streak-stats.demolab.com?user=shuvostack&theme=tokyonight&hide_border=true&background=0D1117" width="48%" />
+  
+  <br/><br/>
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shuvostack&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" width="48%" />
 </div>
 
----
+<br/>
 
-# 👨‍💻 Who Am I?
+## 📫 Let's Connect!
 
-```js
-const shuvo = {
-  role: "Full Stack MERN Developer",
-  passion: "Building scalable & impactful web apps",
-  currentlyLearning: ["Next.js Advanced Patterns", "Performance Optimization", "System Design"],
-  focus: ["UX", "Clean Architecture", "Scalability"],
-  mindset: "Always Improving 🚀"
-};
-I don’t just write code —
-I craft experiences.
-
-I love solving real-world problems and turning complex ideas into simple, elegant, and high-performing web applications.
-
-🧠 Tech Arsenal
-<div align="center"> <img src="https://skillicons.dev/icons?i=html,css,js,react,next,tailwind,nodejs,express,mongodb,git,github,vscode" /> </div>
-🏆 Featured Projects
-🌆 City Fix
-Smart platform to report & manage city problems.
-
-⚡ Full MERN Architecture
-⚡ Clean UI + Real-world Use Case
-⚡ Authentication + REST APIs
-
-🔗 Client Repo → https://github.com/shuvostack/city-fix-client
-🔗 Server Repo → https://github.com/shuvostack/city-fix-server
-
-🚨 Emergency Hotline
-Fast access to emergency contacts with simple UI.
-
-🔗 https://github.com/shuvostack/emergency-hotline
-
-📚 English Janala
-Structured & beginner-friendly English learning platform.
-
-🔗 https://github.com/shuvostack/english-janala
-
-📊 GitHub Analytics
-<div align="center"> <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shuvostack&theme=tokyonight" width="95%" /> <img src="https://streak-stats.demolab.com?user=shuvostack&theme=tokyonight&hide_border=true&background=0D1117" width="60%" /> <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=shuvostack&theme=tokyonight" width="60%" /> </div>
-🌱 Currently Leveling Up
-⚡ Advanced Next.js (App Router + Server Actions)
-
-⚡ Secure Backend Architecture
-
-⚡ Full-Stack Performance Optimization
-
-⚡ Real-world SaaS Development
-
-🌍 Let's Connect
-<div align="center"> <a href="https://www.linkedin.com/in/shuvostack/"> <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/> </a> <a href="mailto:shuvostack@gmail.com"> <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/> </a> <a href="https://github.com/shuvostack"> <img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white"/> </a> </div>
 <div align="center">
-⚡ “Consistency Beats Motivation.”
-⭐ If you like my work, explore my repositories and consider starring them!
-
-</div> ```
+  <p>Whether you want to discuss a project, talk about web development, or just say hi, my inbox is always open!</p>
+  
+  <a href="https://www.linkedin.com/in/shuvostack/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:shuvostack@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://github.com/shuvostack">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  
+  <br/><br/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:3b82f6&height=100&section=footer" width="100%" />
+</div>
