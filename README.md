@@ -16,44 +16,53 @@
 <br/>
 
 <table width="100%">
-  <tr>
-    <td width="55%" valign="top">
-      <h2>🚀 About Me</h2>
-      <p>I am a <strong>MERN Stack Developer</strong> based in Tangail, Bangladesh. I enjoy turning complex problems into robust, interactive, and visually appealing web applications.</p>
-      <p>My journey in web development started out of curiosity, and today I focus on writing clean, scalable, and maintainable code across both frontend and backend architectures.</p>
-    </td>
-    <td width="45%" valign="top">
-      <h2>⚡ Quick Facts</h2>
-      <ul>
-        <li>🌱 Currently exploring: <b>Next.js (SSR, App Router)</b></li>
-        <li>💻 Working on: <b>Talkify (Real-time Chat App)</b></li>
-        <li>🎯 Focus: <b>Full-Stack Performance & UX</b></li>
-        <li>💬 Ask me about: <b>React, Express, Tailwind CSS</b></li>
-        <li>📫 Reach out: <a href="mailto:shuvostack@gmail.com"><b>shuvostack@gmail.com</b></a></li>
-      </ul>
-    </td>
-  </tr>
+<tr>
+<td width="55%" valign="top">
+<h2>🚀 About Me</h2>
+<p>I am a <strong>MERN Stack Developer</strong> based in Tangail, Bangladesh. I enjoy turning complex problems into robust, interactive, and visually appealing web applications.</p>
+<p>My journey in web development started out of curiosity, and today I focus on writing clean, scalable, and maintainable code across both frontend and backend architectures.</p>
+</td>
+<td width="45%" valign="top">
+<h2>⚡ Quick Facts</h2>
+<ul>
+<li>🌱 Currently exploring: <b>Next.js (SSR, App Router)</b></li>
+<li>💻 Working on: <b>Talkify (Real-time Chat App)</b></li>
+<li>🎯 Focus: <b>Full-Stack Performance & UX</b></li>
+<li>💬 Ask me about: <b>React, Express, Tailwind CSS</b></li>
+<li>📫 Reach out: <a href="mailto:shuvostack@gmail.com"><b>shuvostack@gmail.com</b></a></li>
+</ul>
+</td>
+</tr>
 </table>
+
+<br/>
+
+## 🌟 What I Do
+
+- 🖥️ **Frontend Development:** Crafting highly interactive and responsive user interfaces using **React.js, Next.js, and Tailwind CSS**.
+- ⚙️ **Backend Engineering:** Building secure and scalable RESTful APIs using **Node.js and Express.js**.
+- 🗄️ **Database Management:** Designing efficient database schemas and managing data with **MongoDB (NoSQL)**.
+- 🔐 **Authentication & Security:** Implementing secure user authentication flows using **JWT and Firebase**.
 
 <br/>
 
 ## 🛠️ Tech Arsenal
 
 <table width="100%">
-  <tr>
-    <td width="33%" align="center">
-      <h3>🎨 Frontend</h3>
-      <img src="https://skillicons.dev/icons?i=html,css,js,react,next,tailwind&perline=3" />
-    </td>
-    <td width="33%" align="center">
-      <h3>⚙️ Backend & DB</h3>
-      <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,firebase&perline=2" />
-    </td>
-    <td width="33%" align="center">
-      <h3>🔧 Tools</h3>
-      <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,vercel&perline=3" />
-    </td>
-  </tr>
+<tr>
+<td width="33%" align="center">
+<h3>🎨 Frontend</h3>
+<img src="https://skillicons.dev/icons?i=html,css,js,react,next,tailwind&perline=3" />
+</td>
+<td width="33%" align="center">
+<h3>⚙️ Backend & DB</h3>
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,firebase&perline=2" />
+</td>
+<td width="33%" align="center">
+<h3>🔧 Tools</h3>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,vercel&perline=3" />
+</td>
+</tr>
 </table>
 
 <br/>
@@ -67,7 +76,7 @@
 <p align="center"><i>A scalable food donation platform.</i></p>
 <ul>
 <li><b>Tech:</b> React.js, Node.js, Express, MongoDB</li>
-<li><b>Features:</b> JWT Auth, Complex State Management, REST API integration, Responsive UI.</li>
+<li><b>Features:</b> JWT Auth, Complex State Management, REST API integration.</li>
 </ul>
 <p align="center">
 <a href="https://github.com/shuvostack"><img src="https://img.shields.io/badge/Client_Code-1E293B?style=for-the-badge&logo=github&logoColor=white" /></a>
@@ -79,11 +88,35 @@
 <p align="center"><i>City issue reporting & management system.</i></p>
 <ul>
 <li><b>Tech:</b> React, Tailwind CSS, MERN Architecture</li>
-<li><b>Features:</b> Client & Server architecture, clean dashboard, database management, high usability.</li>
+<li><b>Features:</b> Client & Server architecture, secure dashboard, user roles.</li>
 </ul>
 <p align="center">
 <a href="https://github.com/shuvostack/city-fix-client"><img src="https://img.shields.io/badge/Client_Code-1E293B?style=for-the-badge&logo=github&logoColor=white" /></a>
 <a href="https://github.com/shuvostack/city-fix-server"><img src="https://img.shields.io/badge/Server_Code-1E293B?style=for-the-badge&logo=nodedotjs&logoColor=white" /></a>
+</p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<h3 align="center">📚 English Janala</h3>
+<p align="center"><i>Educational language learning platform.</i></p>
+<ul>
+<li><b>Tech:</b> HTML, CSS, JavaScript</li>
+<li><b>Features:</b> Clean UI, intuitive navigation, structured content mapping.</li>
+</ul>
+<p align="center">
+<a href="https://github.com/shuvostack/english-janala"><img src="https://img.shields.io/badge/View_Code-1E293B?style=for-the-badge&logo=github&logoColor=white" /></a>
+</p>
+</td>
+<td width="50%" valign="top">
+<h3 align="center">🚨 Emergency Hotline</h3>
+<p align="center"><i>Quick access to emergency contacts.</i></p>
+<ul>
+<li><b>Tech:</b> JavaScript, DOM Manipulation</li>
+<li><b>Features:</b> Fast loading, fully responsive, instant access design.</li>
+</ul>
+<p align="center">
+<a href="https://github.com/shuvostack/emergency-hotline"><img src="https://img.shields.io/badge/View_Code-1E293B?style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
 </td>
 </tr>
